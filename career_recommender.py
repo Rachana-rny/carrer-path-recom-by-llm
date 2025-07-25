@@ -7,7 +7,7 @@ import PyPDF2
 import re
 
 # =============== CONFIG =================
-TOGETHER_API_KEY = "f344222815e6430930b7a8b673cc5f4ca00072e5021d4e1eb0054fd5899bcfdc"
+TOGETHER_API_KEY = "api key"
 
 # =============== HELPER FUNCTIONS ================
 
